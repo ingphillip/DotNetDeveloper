@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-CO" dir="ltr">
+
+<head>
+ <!-- data-info:v:20220715_29743481;a:108e05d8-ad32-4642-8c21-3fce3828790c;cn:12;az:{did:b6a95bf14e974879bdf3af0ed04b3e4c, rid: 12, sn: eastus-prod-hp, dt: 2022-10-11T18:42:07.9385308Z, bt: 2022-07-15T00:17:15.0459229Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:es-co;cb:;l:es-co;mu:es-co;ud:{cid:,vk:homepage,n:,l:es-co,ck:};xd:AAggFpg;ovc:f;al:;fxd:f;xdpub:2022-03-30 03:45:38Z;xdmap:2022-10-18 22:10:06Z;axd:;f:msnallexpusers,muidflt14cf,muidflt15cf,muidflt53cf,muidflt301cf,pneedge2cf,startedge3cf,audexedge3cf,platagyhp3cf,audexhp3cf,modcoglangt,audexhz1cf,moneyhz1cf,artgly1cf,article5cf,gallery3cf,msnapp3cf,msnapp4cf,csmoney4cf,btrecrow2,1s-winauthservice,wf-sunny-first,msnapp9cf,btie-ad-slug5-c,routentpring2t,1s-fcrypt,1s-rpssecautht,ads-dyndom,msnsapphire3cf,1s-xapsegment,1s-skip-systags-c,1s-xapntpseg,1s-compicsync;userOptOut:false;userOptOutOptions: -->
+ <meta name="robots" content="index, follow"/>
+ <meta property="sharing_url" content="http://www.msn.com/es-co"/><meta property="og:url" content="http://www.msn.com/es-co/"/><meta property="og:title" content="Hotmail, Outlook, El Tiempo, noticias, videos, entretenimiento, deportes en MSN Colombia."/><meta property="twitter:card" content="summary_large_image"/><meta property="og:type" content="website"/><meta property="og:site_name" content="MSN"/><meta property="og:image" content="http://static-global-s-msn-com.akamaized.net/hp-eus/sc/c6/519670.jpg"/>
+ <link rel="canonical" href="http://www.msn.com/es-co/" />
+ 
+
+ <title>Hotmail, Outlook, El Tiempo, noticias, videos, entretenimiento, deportes en MSN Colombia.</title>
+ <meta name="description" content=". Las últimas noticias de Colombia. Lee tu correo de Hotmail, Outlook, consulta El Tiempo, habla por Skype, Paro Nacional 21 de noviembre, Duque, resultados de fútbol, música y juegos."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-global-s-msn-com.akamaized.net/hp-eus/es-co/homepage/_sc/css/d7cb56b9-9ba8c85c/direction=ltr.locales=es-co.themes=start.dpi=resolution1x/ab-69ca4a-4e3b0a9b/90-67c322-ee5f2b10/2a-1f1669-a955659a/3e-923a67-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3/d1-7801d5-68ddb2ab/7a-660b57-4534563a/75-a00681-654638bf?ver=20220715_29743481&amp;fdhead=msnallexpusers,muidflt14cf,muidflt15cf,muidflt53cf,muidflt301cf,pneedge2cf,startedge3cf,audexedge3cf,platagyhp3cf,audexhp3cf,modcoglangt,audexhz1cf,moneyhz1cf,artgly1cf,article5cf,gallery3cf,msnapp3cf,msnapp4cf,csmoney4cf,btrecrow2,1s-winauthservice,wf-sunny-first,msnapp9cf,btie-ad-slug5-c,routentpring2t,1s-fcrypt,1s-rpssecautht,ads-dyndom,msnsapphire3cf,1s-xapsegment,1s-skip-systags-c,1s-xapntpseg,1s-compicsync&amp;csopd=20210722164117&amp;csopdb=20220120005548" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function o(t,i,r){var u=t[i],e,f;if(!u||u.length===0)return"";for(e="",f=0;f<u.length;f++)u[f]&&(e=e+r+i+"="+n.urlPart(u[f]),r==="?"&&(r="&"));return e}function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t||r==="item"?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var s,f,e,h,r,c;if(i){if(s=t.split("?"),s[1]){f=u(s[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=s[0];e="?";h="item";for(r in f)r!==h&&(t+=f[r]?e+n.urlPart(r)+"="+n.urlPart(f[r]):e+n.urlPart(r),e==="?"&&(e="&"));c=o(f,h,e);t=t+c}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-global-s-msn-com.akamaized.net/hp-eus/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}html[dir='rtl'] .ie8 .mip>ul>li.triptych h3+a{border-right:0}html[dir='ltr'] .ie8 .mip>ul>li.triptych h3+a{border-left:0}.meflyouts .integratedskype .signin>ul li:first-child{display:none}.tmx.pc.webkit.chrome .stripecontent ul{overflow-x:hidden}.meflyouts .bingrewards{display:none}#maincontent>.content{width:100%}body.fltprg-brandupwhp #header-common>.logowrapper::after{display:none !important}body.fltprg-brandupwhp div.head #header-common>.logowrapper a div{padding-top:.5rem}body.fltprg-brandupwhp div.head #header-common>.logowrapper a.vertical{display:none !important}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}@media screen and (max-width:52.303em){#irisbanner .irisbanner header>a{max-width:33rem}}.tmx.pc.webkit.chrome .msame_Header_pic{height:5rem}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/es-co">Inicio</a>
+</li>
+ <li >
+<a href="/es-co/noticias">Noticias</a>
+</li>
+ <li >
+<a href="/es-co/el-tiempo">El tiempo</a>
+</li>
+ <li >
+<a href="/es-co/entretenimiento">Entretenimiento</a>
+</li>
+ <li >
+<a href="/es-co/deportes">Deportes</a>
+</li>
+ <li >
+<a href="/es-co/dinero">Dinero</a>
+</li>
+
+ <li class="more">
+<a href="#nav">M&#225;s ></a>
+<ul>
+ <li >
+<a href="/es-co/estilo-de-vida">Estilo de vida</a>
+</li>
+ <li >
+<a href="/es-co/salud">Salud</a>
+</li>
+ <li >
+<a href="/es-co/recetas">Recetas</a>
+</li>
+ <li >
+<a href="/es-co/viajes">Viajes</a>
+</li>
+ <li >
+<a href="/es-co/autos">Autos</a>
+</li>
+ <li >
+<a href="/es-co/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/es-co" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/es-co" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/es-co/settings/markettoggle"><img alt="es-co" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="ir a navegación" width="27" height="20" src="//static-global-s-msn-com.akamaized.net/hp-eus/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRCODL" />
+  <input type="hidden" name="httpsmsn" value="1">
+    <input type="hidden" name="msnews" value="1">
+ <input type="hidden" name="refig" value="108e05d8ad3246428c213fce3828790c">
+<input type="submit" class="text" value="b&#250;squeda web" title="b&#250;squeda web" />
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ Estás usando una versión más antigua del explorador. Usa una <a href="http://support2.microsoft.com/kb/2999871/es-mx">versión compatible</a> para obtener la mejor experiencia en MSN.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/es-co/el-tiempo/pronostico/in-Santa-F%c3%a9,Distrito-Capital?iso=CO&amp;weadegreetype=C&amp;loc=eyJsIjoiU2FudGEgRsOpIiwiciI6IkRpc3RyaXRvIENhcGl0YWwiLCJjIjoiQ29sb21iaWEiLCJpIjoiQ08iLCJ0IjoxLCJ4IjotNzQuMDY4MjYwMTksInkiOjQuNjEwODQ1MDl9" data-loc="lat=4.61&amp;long=-74.07&amp;c=Santa%20F%C3%A9&amp;st=Distrito%20Capital&amp;cn=Colombia&amp;iso=CO&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MrWu.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MrWu.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Chubascos" title="Chubascos" data-icon="23" />
+	<div><span class="currentcond">13&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">Santa F&#233;, Distrito Capital</span>
+<span class="skytext">Hoy, Chubascos</span>
+<span class="tempavghigh">M&#225;xima 18&#176;</span>
+<span class="tempavglow">M&#237;nima 11&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" aria-label="Cambiar ubicaci&#243;n o unidad de temperatura" data-degreetype="C" 
+data-home="Buscar ubicaci&#243;n o ciudad" title="Cambiar">Cambiar</a>
+</div>
+<div class="weapopup" role="dialog" aria-labelledby="weaaddlocation-label"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Cerrar">Cerrar</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/es-co/el-tiempo/buscar" data-action="/es-co/el-tiempo/ajax/lugares/buscar/" method="get" >
+ 
+<p class="label" id="weaaddlocation-label">Establecer mi ubicaci&#243;n</p>
+<div class="add-loc-as-container">
+<input name="q" class="query" accesskey="L" autocomplete="off" type="search" aria-autocomplete="list"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;es-co&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/es-co/el-tiempo/pronostico&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:4.6069,&quot;lon&quot;:-74.0718}'
+                   placeholder="Buscar ubicaci&#243;n o ciudad" data-seemoretext="Presiona &lt;Entrar&gt; para ver m&#225;s" data-autosuggestdelay="100"
+                   aria-label="Buscar ubicaci&#243;n o ciudad"  />
+<button type="submit" title ="Buscar" class="searchbtn" 
+  aria-label="buscar">
+<span class="x-screen-reader">Buscar</span>               
+            </button>
+        </div>
+        <div class="nolocerr" aria-live="assertive" data-message="No hay resultados de b&#250;squeda para &#39;{0}&#39;"></div>
+<div class="errmsg" aria-hidden="true" data-error-in-service-message="Se produjo un error inesperado. Int&#233;ntalo de nuevo."></div>
+<div class="suggestmsg"></div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+
+<div  role="radiogroup">
+<p>Mostrar la temperatura en</p>
+<form id="ide4122dd30c3b463a922d3cfb836b5823" class="setdegree"  action="/es-co/el-tiempo/ajax/lugares/savedegree/" method="post">
+ 
+<div>
+<button name="weaDegreeType" id="ide4122dd30c3b463a922d3cfb836b5823_fahrenheit" value="F"
+                        class=""
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="ide4122dd30c3b463a922d3cfb836b5823_fahrenheit" form="ide4122dd30c3b463a922d3cfb836b5823">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="ide4122dd30c3b463a922d3cfb836b5823_celsius" value="C"
+                        class="selected"
+ role="radio"
+ >
+<span class="dot"></span>
+</button>
+<label for="ide4122dd30c3b463a922d3cfb836b5823_celsius" form="ide4122dd30c3b463a922d3cfb836b5823">Celsius</label>
+</div>
+ 
+</form>
+</div>
+
+<button  class="donebutton disabled" disabled="disabled" title="Listo">Listo</button>
+</div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>Hoy</h2>    <a href="/es-co/deportes/other/falcao-garc%c3%ada-vea-el-gol-con-el-que-salv%c3%b3-al-rayo-contra-el-atl%c3%a9tico-de-madrid/ar-AA137aCC?li=AAggFp8"  >
+<img alt="" height="194" src="//static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AA10DlzL.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=317&amp;y=146" title="Falcao García - EFE" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/es-co/deportes/other/falcao-garc%c3%ada-vea-el-gol-con-el-que-salv%c3%b3-al-rayo-contra-el-atl%c3%a9tico-de-madrid/ar-AA137aCC?li=AAggFp8"  >
+
+Falcao Garc&#237;a: vea el gol con el que salv&#243; al Rayo contra el Atl&#233;tico de Madrid    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/nacional/esta-es-la-historia-de-la-psic%c3%b3loga-de-32-a%c3%b1os-hallada-sin-vida-en-medell%c3%adn-la-mujer-estaba-desaparecida-hace-tres-d%c3%adas-%c2%bfqu%c3%a9-saben-los-investigadores/ar-AA135FDP?li=AAggFp8"  >
+
+Esta es la historia de la psic&#243;loga de 32 a&#241;os hallada sin vida en Medell&#237;n: la mujer estaba desaparecida hace tres d&#237;as. &#191;Qu&#233; saben los investigadores?    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/otras/revelan-costos-de-celebraci%c3%b3n-de-posesi%c3%b3n-de-petro-y-francia/ar-AA135TUl?li=AAggFp8"  >
+
+Revelan costos de celebraci&#243;n de posesi&#243;n de Petro y Francia    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/nacional/sepultan-a-ni%c3%b1o-de-3-a%c3%b1os-que-muri%c3%b3-tras-el-accidente-de-una-avioneta-en-santa-marta/ar-AA136LTq?li=AAggFp8"  >
+
+Sepultan a ni&#241;o de 3 a&#241;os que muri&#243; tras el accidente de una avioneta en Santa Marta    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/otras/elon-musk-lanza-catastr%c3%b3fica-advertencia-sobre-guerra-entre-rusia-y-ucrania/ar-AA136VY4?li=AAggFp8"  >
+
+Elon Musk lanza catastr&#243;fica advertencia sobre guerra entre Rusia y Ucrania    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/es-co/entretenimiento" >Entretenimiento</a></h2>    <a href="/es-co/entretenimiento/famosos/muri%c3%b3-andreina-carmona-bailarina-y-modelo-venezolana-que-ten%c3%ada-c%c3%a1ncer/ar-AA136TVb?li=BBLycWY"  >
+<img alt="" height="194" src="//www.bing.com/th?id=ORMS.f81b32181390bf12b6b9fe3a38b92af5&amp;pid=Wdp&amp;h=194&amp;w=300&amp;rs=6&amp;c=6&amp;qlt=70" title="Falleció la bailarina y modelo venezolana que padecía cáncer en el sistema linfá..." width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/es-co/entretenimiento/famosos/muri%c3%b3-andreina-carmona-bailarina-y-modelo-venezolana-que-ten%c3%ada-c%c3%a1ncer/ar-AA136TVb?li=BBLycWY"  >
+
+Muri&#243; Andreina Carmona, bailarina y modelo venezolana que ten&#237;a c&#225;ncer    </a>
+
+</li>
+ <li >
+     <a href="/es-co/news/other/juan-gabriel-est%c3%a1-vivo-su-exm%c3%a1nager-joaqu%c3%adn-mu%c3%b1oz-habl%c3%b3-al-respecto/ar-AA136XHk?li=BBLycWY"  >
+
+&#191;Juan Gabriel est&#225; vivo? Su exm&#225;nager, Joaqu&#237;n Mu&#241;oz, habl&#243; al respecto    </a>
+
+</li>
+ <li >
+     <a href="/es-co/entretenimiento/famosos/la-liendra-presumi%c3%b3-sus-costosos-zapatos-le-llovieron-cr%c3%adticas-y-los-compararon-con-un-transmilenio/ar-AA136wJo?li=BBLycWY"  >
+
+La Liendra presumi&#243; sus costosos zapatos, le llovieron cr&#237;ticas y los compararon con un Transmilenio    </a>
+
+</li>
+ <li >
+     <a href="/es-co/news/other/este-es-el-verdadero-nombre-de-martina-la-peligrosa/ar-AA136RhI?li=BBLycWY"  >
+
+Este es el verdadero nombre de Martina la Peligrosa    </a>
+
+</li>
+ <li >
+     <a href="/es-co/entretenimiento/other/agarr%c3%b3n-de-marbelle-y-matador-abri%c3%b3-revelaci%c3%b3n-en-lo-s%c3%a9-todo-hay-preguntas-sobre-ella/ar-AA136YpC?li=BBLycWY"  >
+
+Agarr&#243;n de Marbelle y &#39;Matador&#39; abri&#243; revelaci&#243;n en &#39;Lo s&#233; todo&#39;; hay preguntas sobre ella    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/es-co/noticias" >Noticias</a></h2>    <a href="/es-co/noticias/nacional/atenci%c3%b3n-a-la-c%c3%a1rcel-hombre-que-asesin%c3%b3-al-joven-que-lo-pis%c3%b3-en-transmilenio/ar-AA136jHW?li=BBObdIX"  >
+<img alt="" height="194" src="//www.bing.com/th?id=ORMS.9f8b66695cbd40e1ad7886a79fdd27c8&amp;pid=Wdp&amp;h=194&amp;w=300&amp;rs=6&amp;c=6&amp;qlt=70" title="Semana" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/es-co/noticias/nacional/atenci%c3%b3n-a-la-c%c3%a1rcel-hombre-que-asesin%c3%b3-al-joven-que-lo-pis%c3%b3-en-transmilenio/ar-AA136jHW?li=BBObdIX"  >
+
+Atenci&#243;n | A la c&#225;rcel hombre que asesin&#243; al joven que lo pis&#243; en TransMilenio    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/mundo/fueron-muchos-meses-de-trabajo-iv%c3%a1n-duque-exalta-eliminaci%c3%b3n-de-visa-para-colombianos-por-parte-del-reino-unido/ar-AA1366SQ?li=BBObdIX"  >
+
+“Fueron muchos meses de trabajo”: Iv&#225;n Duque exalta eliminaci&#243;n de visa para colombianos por parte del Reino Unido    </a>
+
+</li>
+ <li >
+     <a href="/es-co/news/other/d%c3%b3lar-inici%c3%b3-la-jornada-por-encima-de-los-4-700/ar-AA136dRS?li=BBObdIX"  >
+
+D&#243;lar inici&#243; la jornada por encima de los $4.700    </a>
+
+</li>
+ <li >
+     <a href="/es-co/news/other/senado-define-este-martes-a-nuevo-magistrado-de-la-corte-constitucional/ar-AA136Rxo?li=BBObdIX"  >
+
+Senado define este martes a nuevo magistrado de la Corte Constitucional    </a>
+
+</li>
+ <li >
+     <a href="/es-co/noticias/mundo/rusia-advierte-que-ucrania-planea-retoma-de-jers%c3%b3n-con-m%c3%a9todos-de-guerra-prohibidos/ar-AA136XV2?li=BBObdIX"  >
+
+Rusia advierte que Ucrania planea retoma de Jers&#243;n con “m&#233;todos de guerra prohibidos”    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/es-co/deportes" >Deportes</a></h2>    <a href="/es-co/deportes/noticias/video-falcao-rugi%c3%b3-y-enmudeci%c3%b3-a-los-hinchas-del-atl%c3%a9tico-de-madrid-con-gol-magistral/ar-AA137dc1?li=BB11OK6B"  >
+<img alt="" height="194" src="//www.bing.com/th?id=ORMS.b60a36c2c10bafdc41d72e61e332bd9a&amp;pid=Wdp&amp;h=194&amp;w=300&amp;rs=6&amp;c=6&amp;qlt=70" title="Semana" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/es-co/deportes/noticias/video-falcao-rugi%c3%b3-y-enmudeci%c3%b3-a-los-hinchas-del-atl%c3%a9tico-de-madrid-con-gol-magistral/ar-AA137dc1?li=BB11OK6B"  >
+
+Video: Falcao rugi&#243; y enmudeci&#243; a los hinchas del Atl&#233;tico de Madrid con gol magistral    </a>
+
+</li>
+ <li >
+     <a href="/es-co/deportes/futbol/resultados-colombia-c%c3%b3mo-queda-el-grupo-c-tras-la-fecha-3-del-mundial-sub-17-femenino/ar-AA136mFD?li=BB11OK6B"  >
+
+Resultados Colombia: &#191;C&#243;mo queda el grupo C tras la fecha 3 del Mundial Sub 17 Femenino?    </a>
+
+</li>
+ <li >
+     <a href="/es-co/deportes/other/para-ver-una-y-otra-vez-el-golazo-de-linda-caicedo-contra-m%c3%a9xico-en-el-mundial/ar-AA136ilM?li=BB11OK6B"  >
+
+Para ver una y otra vez: el golazo de Linda Caicedo contra M&#233;xico en el Mundial    </a>
+
+</li>
+ <li >
+     <a href="/es-co/deportes/noticias/de-1-a-5-a%c3%b1os-la-grave-sanci%c3%b3n-que-puede-caerle-a-juanfer-quintero-por-agredir-al-%c3%a1rbitro/ar-AA136gza?li=BB11OK6B"  >
+
+“De 1 a 5 a&#241;os”: la grave sanci&#243;n que puede caerle a Juanfer Quintero por agredir al &#225;rbitro    </a>
+
+</li>
+ <li >
+     <a href="/es-co/deportes/noticias/una-locura-en-grecia-revelan-cu%c3%a1ntos-metros-salt%c3%b3-james-rodr%c3%adguez-para-su-gol-de-cabeza/ar-AA136xt8?li=BB11OK6B"  >
+
+Una locura: en Grecia revelan cu&#225;ntos metros salt&#243; James Rodr&#237;guez para su gol de cabeza    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/es-co">Inicio</a>
+</li>
+ <li >
+<a href="/es-co/noticias">Noticias</a>
+</li>
+ <li >
+<a href="/es-co/el-tiempo">El tiempo</a>
+</li>
+ <li >
+<a href="/es-co/entretenimiento">Entretenimiento</a>
+</li>
+ <li >
+<a href="/es-co/deportes">Deportes</a>
+</li>
+ <li >
+<a href="/es-co/dinero">Dinero</a>
+</li>
+ <li >
+<a href="/es-co/estilo-de-vida">Estilo de vida</a>
+</li>
+ <li >
+<a href="/es-co/salud">Salud</a>
+</li>
+ <li >
+<a href="/es-co/recetas">Recetas</a>
+</li>
+ <li >
+<a href="/es-co/viajes">Viajes</a>
+</li>
+ <li >
+<a href="/es-co/autos">Autos</a>
+</li>
+ <li >
+<a href="/es-co/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/es-co/">&#169; 2022 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacidad y cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">T&#233;rminos de uso</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">Sobre nuestra publicidad</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Comentarios</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Ayuda</a>
+ <a href="https://go.microsoft.com/fwlink/?linkid=875132">Anunciar</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=108e05d8ad3246428c213fce3828790c&amp;rnd=638017278258135496&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fes-co%252F&amp;di=13041&amp;lng=es-co&amp;activityId=108e05d8ad3246428c213fce3828790c&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=homepage&amp;pg.n=startpage&amp;pg.t=hp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=638017278258135496&amp;c7=http%253A%252F%252Fwww.msn.com%252Fes-co%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="https://browser.events.data.msn.com/OneCollector/1.0/t.js?qsp=true&anoncknm=%22%22&name=%22MS.News.Web.PageView%22&time=%222022-10-18T22%3a10%3a25.8291779Z%22&ver=%224.0%22&iKey=%22o%3a0ded60c75e44443aa3484c42c1c43fe8%22&w=0&apikey=0ded60c75e44443aa3484c42c1c43fe8-9fc57d3f-fdac-4bcf-b927-75eafe60192e-7279&ext.intweb.msfpc=%22+%22&*page.name=%22startpage%22&*page.type=%22hp%22&*page.product=%22prime%22&*page.config=%22%22&*page.url=%22http%253A%252F%252Fwww.msn.com%252Fes-co%252F%22&*page.referral=%22%22&*page.isAutoRefresh=%220%22&*page.content.title=%22%22&*page.content.domainId=%2213041%22&*page.content.brand=%22%22&*page.content.partnerName=%22%22&*page.content.canvas=%22Browser%22&*page.content.vertical=%22homepage%22&*page.content.id=%22%22&*page.content.source=%22%22&*page.content.brandId=%22%22&*page.content.category=%22%22&*page.content.subcategory=%22%22&*page.content.parentId=%22%22&*page.content.idx=%22%22&*page.content.total=%22%22&*browser.clientId=%222E38123897D663F21C940079964262CB%22&*browser.clientIdType=%22muid%22&*browser.muid=%222E38123897D663F21C940079964262CB%22&*browser.isMobile=%220%22&*request.activityId=%22108e05d8ad3246428c213fce3828790c%22&*request.requestId=%22108e05d8ad3246428c213fce3828790c%22&*timestamp*6=1666131025829&*eventIndex*6=1&*local.mkt=%22es-co%22&*user.isSignedIn=%22False%22" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>
