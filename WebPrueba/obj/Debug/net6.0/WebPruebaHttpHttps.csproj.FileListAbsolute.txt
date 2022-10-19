@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.dll
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\ref\WebPruebaHttpHttps.dll
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\WebPrueba\obj\Debug\net6.0\WebPruebaHttpHttps.csproj.AssemblyReference.cache
