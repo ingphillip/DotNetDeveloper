@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\RecordsApp.exe
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\RecordsApp.deps.json
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\RecordsApp.runtimeconfig.json
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\RecordsApp.dll
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\ref\RecordsApp.dll
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\bin\Debug\net6.0\RecordsApp.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.dll
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\ref\RecordsApp.dll
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\RecordsApp\obj\Debug\net6.0\RecordsApp.genruntimeconfig.cache
