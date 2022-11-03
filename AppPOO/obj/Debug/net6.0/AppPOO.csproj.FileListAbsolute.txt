@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\bin\Debug\net6.0\AppPOO.exe
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\bin\Debug\net6.0\AppPOO.deps.json
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\bin\Debug\net6.0\AppPOO.runtimeconfig.json
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\bin\Debug\net6.0\AppPOO.dll
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\bin\Debug\net6.0\AppPOO.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.dll
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\refint\AppPOO.dll
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\AppPOO.genruntimeconfig.cache
+C:\Users\felip\source\repos\DotNetDeveloper\AppPOO\obj\Debug\net6.0\ref\AppPOO.dll

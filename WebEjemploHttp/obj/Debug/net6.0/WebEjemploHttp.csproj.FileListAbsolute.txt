@@ -4,7 +4,6 @@ C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\WebE
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\WebEjemploHttp.deps.json
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\WebEjemploHttp.runtimeconfig.json
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\WebEjemploHttp.dll
-C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\ref\WebEjemploHttp.dll
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\WebEjemploHttp.pdb
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -25,3 +24,4 @@ C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\obj\Debug\net6.0\WebE
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\obj\Debug\net6.0\ref\WebEjemploHttp.dll
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\obj\Debug\net6.0\WebEjemploHttp.pdb
 C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\obj\Debug\net6.0\WebEjemploHttp.genruntimeconfig.cache
+C:\Users\felip\source\repos\DotNetDeveloper\WebEjemploHttp\obj\Debug\net6.0\refint\WebEjemploHttp.dll

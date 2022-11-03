@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\bin\Debug\net6.0\TupleDeconstructing.exe
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\bin\Debug\net6.0\TupleDeconstructing.deps.json
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\bin\Debug\net6.0\TupleDeconstructing.runtimeconfig.json
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\bin\Debug\net6.0\TupleDeconstructing.dll
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\bin\Debug\net6.0\TupleDeconstructing.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.dll
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\ref\TupleDeconstructing.dll
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.genruntimeconfig.cache
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\TupleDeconstructing.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DotNetDeveloper\TupleDeconstructing\obj\Debug\net6.0\refint\TupleDeconstructing.dll

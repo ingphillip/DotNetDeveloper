@@ -10,3 +10,15 @@ C:\Users\felip\source\repos\acuarelasoftware\NetDeveloper\Persistence\obj\Debug\
 C:\Users\felip\source\repos\acuarelasoftware\NetDeveloper\Persistence\obj\Debug\net6.0\Persistence.dll
 C:\Users\felip\source\repos\acuarelasoftware\NetDeveloper\Persistence\obj\Debug\net6.0\ref\Persistence.dll
 C:\Users\felip\source\repos\acuarelasoftware\NetDeveloper\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\Persistence\obj\Debug\net6.0\ref\Persistence.dll

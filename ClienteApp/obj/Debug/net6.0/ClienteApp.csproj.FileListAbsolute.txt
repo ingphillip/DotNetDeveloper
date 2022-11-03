@@ -2,7 +2,6 @@ C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ClienteA
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ClienteApp.deps.json
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ClienteApp.runtimeconfig.json
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ClienteApp.dll
-C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ref\ClienteApp.dll
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\ClienteApp.pdb
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\obj\Debug\net6.0\ClienteApp.csproj.AssemblyReference.cache
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\obj\Debug\net6.0\ClienteApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,3 +19,4 @@ C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\System.W
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\System.Web.WebPages.dll
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
 C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\obj\Debug\net6.0\ClienteApp.csproj.CopyComplete
+C:\Users\felip\source\repos\DotNetDeveloper\ClienteApp\obj\Debug\net6.0\refint\ClienteApp.dll

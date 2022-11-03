@@ -30,7 +30,12 @@
       "ProjectGuid": "20dc6673-db49-4dfb-97e5-071256295b31",
       "DisplayName": "RecordsApp",
       "ColorIndex": 4
+    },
+    "defe72a6-53bd-4568-9b8f-c61244a29104": {
+      "ProjectGuid": "defe72a6-53bd-4568-9b8f-c61244a29104",
+      "DisplayName": "AppPOO",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
