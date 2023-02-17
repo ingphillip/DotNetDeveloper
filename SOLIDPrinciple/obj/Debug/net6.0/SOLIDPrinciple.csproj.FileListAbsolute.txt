@@ -1,0 +1,15 @@
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.exe
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.deps.json
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.runtimeconfig.json
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.dll
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.AssemblyInfo.cs
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.dll
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\refint\SOLIDPrinciple.dll
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.pdb
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.genruntimeconfig.cache
+C:\Users\felip\source\repos\DotNetDeveloper\SOLIDPrinciple\obj\Debug\net6.0\ref\SOLIDPrinciple.dll
